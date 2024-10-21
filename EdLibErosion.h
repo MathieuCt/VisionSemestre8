@@ -1,0 +1,1 @@
+int Erosion(EdIMAGE *image, EdIMAGE *imres);

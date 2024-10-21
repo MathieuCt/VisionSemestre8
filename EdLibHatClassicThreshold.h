@@ -1,0 +1,1 @@
+int ClassicThreshold(EdIMAGE *image, EdIMAGE *imres, unsigned char ThL, unsigned char ThH);

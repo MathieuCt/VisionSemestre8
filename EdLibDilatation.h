@@ -1,0 +1,1 @@
+int Dilatation(EdIMAGE *image, EdIMAGE *imres);
